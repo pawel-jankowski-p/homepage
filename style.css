@@ -2,15 +2,15 @@
   width: 300px;
 }
 .redLargeText {
-  color: red;
-  background-color: yellowgreen;
+  color: rgb(133, 37, 37);
+  background-color: rgb(96, 131, 26);
 }
 
 .Claire{
-  color: coral;
+  color: rgb(201, 77, 32);
 }
 .Matylda{
-  color: darkblue;
+  color: rgb(20, 20, 189);
 }
 .center{
   text-align: center;
